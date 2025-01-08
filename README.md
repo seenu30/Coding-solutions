@@ -1,2 +1,2 @@
-# neetcode.io
-NeeCode solutions in Java Script
+# Coding solutions
+Problem solutions in Java Script
